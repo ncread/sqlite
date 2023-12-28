@@ -1,0 +1,1 @@
+This python file was written for future ease of use when implementing an sqlite3 database in different projects.
